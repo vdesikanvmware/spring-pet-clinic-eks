@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Java: Remote Attach",
+      "type": "java",
+      "request": "attach",
+      "port": 9005,
+      "hostName": "localhost"
+    }
+  ]
+}
